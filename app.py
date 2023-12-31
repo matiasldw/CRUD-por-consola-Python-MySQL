@@ -4,10 +4,10 @@ from Database import connection
 
 def menu() -> int:
     print(funciones.separador('Menu'))
-    print("1.- Listar cursos")
-    print("2.- Registrar curso")
-    print("3.- Actualizar curso")
-    print("4.- Eliminar curso")
+    print("1.- Listar cliente")
+    print("2.- Registrar cliente")
+    print("3.- Actualizar cliente")
+    print("4.- Eliminar cliente")
     print("5.- Salir")
     print(funciones.separador())
 
